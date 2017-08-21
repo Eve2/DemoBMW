@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">DemoBMW</string>
     <string name="url">"http://localsearch.azurewebsites.net/api/Locations"</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDkDnqxaAQOEFLUpQ1defCEEBy9I11pqiE
+    </string>
+
+    <string name="title_activity_detail">Location Details</string>
+    <string name="parcelable_key">data</string>
+    <string name="current_lat">currentLat</string>
+    <string name="current_lng">currentLng</string>
 
 </resources>
